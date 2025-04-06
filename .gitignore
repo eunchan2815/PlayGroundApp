@@ -1,0 +1,17 @@
+.DS_Store
+
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/xcuserdata
+
+.build/
+.swiftpm/xcode/
+
+timeline.xctimeline
+playground.xcworkspace
+
+*.swp
+*.lock
+*.log
+
