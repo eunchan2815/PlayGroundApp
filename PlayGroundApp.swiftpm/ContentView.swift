@@ -5,6 +5,7 @@ struct ContentView: View {
         VStack {
             Image(systemName: "plus")
             Text("I`m eunchan")
+            Text("zzzzzzzz")
         }
     }
 }
